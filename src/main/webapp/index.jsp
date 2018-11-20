@@ -31,6 +31,8 @@ body{
 <br></br>
 <br></br>
 <marquee style="color:orange; font-size:75px;"><b>Electra Futura</b></marquee><hr>
+<form action="./search" method="post">
+
 <div class ="container">
     <form>
 	    <div class ="input-group">
